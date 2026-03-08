@@ -1,5 +1,7 @@
 # desktop-ui
 
+![Desktop UI Demo](.github/assets/demo.gif)
+
 A macOS-style desktop environment for React. Draggable windows, desktop icons, dark/light theming, and more.
 
 ![License](https://img.shields.io/badge/license-MIT-blue)
@@ -335,3 +337,5 @@ MIT
 ## Author
 
 Renato Costa ([renato.works](https://renato.works))
+
+Made in [Blueberry](https://meetblueberry.com) 🫐
